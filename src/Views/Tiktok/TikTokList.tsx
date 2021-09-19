@@ -1,11 +1,11 @@
 import React from 'react';
-
+import '../../App.scss';
 const ids: string[] = ["7009660294469324037", "6929955375391247621"];
 
 
 export const TikTokList = () => {
     return (
-    <div style={{paddingTop: '30px'}}>
+    <div className="TikToks">
     {ids.map((id) => {
         return <TiktokEmbed url={id}/>
     })}
@@ -16,6 +16,7 @@ export const TikTokList = () => {
 const TiktokEmbed = (props: {url: string}): JSX.Element => {
     return(
       <iframe
+        className="TikTok"
         height="480"
         src={`https://www.tiktok.com/embed/${props.url}`}
         frameBorder="0"

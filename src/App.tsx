@@ -1,11 +1,11 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import { TiktokView } from './Views/Tiktok/TiktokView';
 
 function App() {
   return (
     <div className="App" >
-      <h1>Viggepedia!</h1>
+      <h1 className="Head1">Viggepedia!</h1>
       <TiktokView></TiktokView>
     </div>
   );
