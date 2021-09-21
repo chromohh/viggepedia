@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/viggepedia/static/css/main.e60b610f.chunk.css",
-    "main.js": "/viggepedia/static/js/main.953eb4af.chunk.js",
-    "main.js.map": "/viggepedia/static/js/main.953eb4af.chunk.js.map",
-    "runtime-main.js": "/viggepedia/static/js/runtime-main.4f99b0ca.js",
-    "runtime-main.js.map": "/viggepedia/static/js/runtime-main.4f99b0ca.js.map",
-    "static/js/2.53ab7313.chunk.js": "/viggepedia/static/js/2.53ab7313.chunk.js",
-    "static/js/2.53ab7313.chunk.js.map": "/viggepedia/static/js/2.53ab7313.chunk.js.map",
-    "static/js/3.3eccaf82.chunk.js": "/viggepedia/static/js/3.3eccaf82.chunk.js",
-    "static/js/3.3eccaf82.chunk.js.map": "/viggepedia/static/js/3.3eccaf82.chunk.js.map",
-    "index.html": "/viggepedia/index.html",
-    "static/css/main.e60b610f.chunk.css.map": "/viggepedia/static/css/main.e60b610f.chunk.css.map",
-    "static/js/2.53ab7313.chunk.js.LICENSE.txt": "/viggepedia/static/js/2.53ab7313.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/viggepedia/static/media/wallpaper.7fc9de6f.jpg"
+    "main.css": "/viggepedia.se/static/css/main.1886215f.chunk.css",
+    "main.js": "/viggepedia.se/static/js/main.953eb4af.chunk.js",
+    "main.js.map": "/viggepedia.se/static/js/main.953eb4af.chunk.js.map",
+    "runtime-main.js": "/viggepedia.se/static/js/runtime-main.26b17df5.js",
+    "runtime-main.js.map": "/viggepedia.se/static/js/runtime-main.26b17df5.js.map",
+    "static/js/2.53ab7313.chunk.js": "/viggepedia.se/static/js/2.53ab7313.chunk.js",
+    "static/js/2.53ab7313.chunk.js.map": "/viggepedia.se/static/js/2.53ab7313.chunk.js.map",
+    "static/js/3.3eccaf82.chunk.js": "/viggepedia.se/static/js/3.3eccaf82.chunk.js",
+    "static/js/3.3eccaf82.chunk.js.map": "/viggepedia.se/static/js/3.3eccaf82.chunk.js.map",
+    "index.html": "/viggepedia.se/index.html",
+    "static/css/main.1886215f.chunk.css.map": "/viggepedia.se/static/css/main.1886215f.chunk.css.map",
+    "static/js/2.53ab7313.chunk.js.LICENSE.txt": "/viggepedia.se/static/js/2.53ab7313.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/viggepedia.se/static/media/wallpaper.7fc9de6f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f99b0ca.js",
+    "static/js/runtime-main.26b17df5.js",
     "static/js/2.53ab7313.chunk.js",
-    "static/css/main.e60b610f.chunk.css",
+    "static/css/main.1886215f.chunk.css",
     "static/js/main.953eb4af.chunk.js"
   ]
 }
