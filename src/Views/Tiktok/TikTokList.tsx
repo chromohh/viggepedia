@@ -7,7 +7,7 @@ export const TikTokList = () => {
     return (
     <div className="TikToks">
     {ids.map((id) => {
-        return <TiktokEmbed url={id}/>
+        return <TiktokEmbed url={id} key={id}/>
     })}
     </div>
     )
